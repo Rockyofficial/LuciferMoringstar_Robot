@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🖥️ Deploy Now 🖥️', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('⭕️ CHANNEL ⭕️', url='t.me/Kichcha_Creations')
                     ],
                     [
                         InlineKeyboardButton('🔍 Search again 🔎', switch_inline_query_current_chat='')
@@ -125,7 +125,7 @@ async def start(bot, message):
                             ),
                         InlineKeyboardButton
                             (
-                                "🤖More Botz", url="https://t.me/MT_Botz"
+                                "⭕️ CHANNEL ⭕️", url="https://t.me/Kichcha_Creations"
                             )
                     ],
                     [
@@ -348,7 +348,7 @@ async def bot_info(bot, message):
         [
             InlineKeyboardButton
                 (
-                     'Video', url=f'{TUTORIAL}'
+                     ('⭕️ CHANNEL ⭕️', url='t.me/Kichcha_Creations')
                 )
         ]
     ]

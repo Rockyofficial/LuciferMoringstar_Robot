@@ -27,21 +27,20 @@ HELP = """
 ➥ /logger  Get Logs
 ➥ /delete Delete File From Database
 
-<b>[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
 
-@Mo_Tech_YT></b>
+@Kichcha_Creations></b>
 """
 
 ABOUT = """
 ➥ Name : Auto Filter With IMDB
     
-➥ Credits : Subin
+➥ Credits : Kichcha Creations
 
-➥ Editing : [Muhammed RK](t.me/Mrk_YT)
+➥ Master : [Kichcha Fan](t.me/KichchaFan)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ Channel : [Kichcha Creations](t.me/Kichcha_Creations)
 """

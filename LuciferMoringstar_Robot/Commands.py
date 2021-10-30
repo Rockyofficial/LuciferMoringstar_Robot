@@ -348,7 +348,7 @@ async def bot_info(bot, message):
         [
             InlineKeyboardButton
                 (
-                     ('⭕️ CHANNEL ⭕️', url='t.me/Kichcha_Creations')
+                     
                 )
         ]
     ]
